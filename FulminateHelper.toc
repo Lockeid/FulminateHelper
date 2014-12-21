@@ -1,0 +1,7 @@
+## Interface: 60200
+## Title: FulminateHelper
+## Author: Soeters
+## Version: r1
+## Notes: Shows Lightning shield stacks on Earth Shock
+
+core.lua
